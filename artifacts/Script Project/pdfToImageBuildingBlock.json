@@ -1,0 +1,9 @@
+{
+	"id": "06f9e3fb-b3c9-ee11-85f9-0022489e2e3e",
+	"createdAt": "2024-02-12T14:35:36.746Z",
+	"createdBy": "daniel.vieira@neptune-software.com",
+	"name": "pdfToImageBuildingBlock",
+	"description": "Project Transform PDF to Image Scripts",
+	"ver": "24.2.12.1435",
+	"package": "11b83056-63c6-ee11-85f9-0022489e2e3e"
+}

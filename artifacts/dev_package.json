@@ -1,0 +1,70 @@
+{
+	"id": "11b83056-63c6-ee11-85f9-0022489e2e3e",
+	"createdAt": "2024-02-08T09:20:45.510Z",
+	"createdBy": "daniel.vieira@neptune-software.com",
+	"git": {
+		"remote": "https://github.com/DVieiraNeptSoft/pdfScanOCR"
+	},
+	"name": "neptunesoftware-dxp-abb-pdfScanOCR",
+	"description": "Scan a PDF file with OCR",
+	"ver": "24.3.21.1439",
+	"enableCICD": true,
+	"apps": [
+		{
+			"id": "adc22e46-64c6-ee11-85f9-0022489e2e3e",
+			"application": "pdfscanocr",
+			"title": "",
+			"description": "",
+			"package": {
+				"id": "11B83056-63C6-EE11-85F9-0022489E2E3E"
+			}
+		}
+	],
+	"api": [
+		{
+			"id": "3d584dfc-b4c9-ee11-85f9-0022489e2e3e",
+			"name": "pdfToImageBuildingBlock",
+			"description": null,
+			"apiGroup": null
+		}
+	],
+	"odataSource": [],
+	"odataMock": [],
+	"dictionary": [],
+	"jsclass": [
+		{
+			"id": "c7d57714-b4c9-ee11-85f9-0022489e2e3e",
+			"name": "convertToImage",
+			"description": "Convert PDF to Image"
+		}
+	],
+	"jsscript_group": [
+		{
+			"id": "06f9e3fb-b3c9-ee11-85f9-0022489e2e3e",
+			"name": "pdfToImageBuildingBlock",
+			"description": "Project Transform PDF to Image Scripts"
+		}
+	],
+	"theme": [],
+	"pdf": [],
+	"rulesengine": [],
+	"reports": [],
+	"api_authentication": [],
+	"api_group": [],
+	"tile": [],
+	"category": [],
+	"launchpad": [],
+	"certificates": [],
+	"role": [],
+	"systems": [],
+	"doc": [],
+	"wf_notifications": [],
+	"department": [],
+	"script_scheduler": [],
+	"wf_definition": [],
+	"connector": [],
+	"events": [],
+	"code_snippets": [],
+	"wf_determination": [],
+	"wf_taskaction": []
+}
